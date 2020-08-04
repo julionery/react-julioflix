@@ -1,6 +1,18 @@
 <h3 align="center">
     <img alt="Logo" title="#logo" width="300px" src="https://github.com/julionery/react-julioflix/blob/master/src/assets/img/Logo.png?raw=true">
 </h3>
+<p align="center">
+  <a href="https://www.alura.com.br/">
+    <img alt="Made by Rocketseat" src="https://img.shields.io/badge/made%20by-alura-%232a7ae4">
+  </a>
+  <a>
+  <img alt="License" src="https://img.shields.io/github/license/julionery/react-julioflix?color=%232a7ae4">
+</p>
+
+
+<h3 align="center">
+    <img alt="Web" title="Web" src="https://github.com/julionery/docs/blob/master/geral/julioflix.gif?raw=true">
+ </h3>   
 
 ### :rocket: Tecnologias
  - [React](https://reactjs.org/ "ReactJS")
