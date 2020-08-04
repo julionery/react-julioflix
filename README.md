@@ -7,11 +7,15 @@
 
 ### :computer: Bibliotecas e ferramentas
  - [React Router](https://reacttraining.com/react-router/)
-
+ - [Styled Components](https://styled-components.com/)
+ - [React Slick](https://react-slick.neostack.com/)
+ - [prop-types](https://github.com/facebook/prop-types)
+ - [json-server](https://github.com/typicode/json-server)
+ - [concurrently](https://www.npmjs.com/package/concurrently)
 
 ### :information_source: Como Usar
 
-Para executar corretamente esta aplicação você precisará do [Git](https://git-scm.com), [NodeJS](https://nodejs.org/en/) já instalados. E da aplicação [(Servidor - API)](https://github.com/julionery/ecoleta-server-nodejs) devidamente configurada.  
+Para executar corretamente esta aplicação você precisará do [Git](https://git-scm.com), [NodeJS](https://nodejs.org/en/) já instalados.
 
 No seu terminal digite os comandos:
 
