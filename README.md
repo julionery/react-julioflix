@@ -11,8 +11,12 @@
 
 
 <h3 align="center">
-    <img alt="Web" title="Web" src="https://github.com/julionery/docs/blob/master/geral/julioflix.gif?raw=true">
- </h3>   
+    <img alt="Web" title="Web" src="https://github.com/julionery/docs/blob/master/geral/julioflix.gif?raw=true"
+</h3> 
+<h3 align="center">
+    <img alt="Mobile" title="Mobile" width="300px" src="https://github.com/julionery/docs/blob/master/geral/julioflix-mobile.gif?raw=true">
+</h3>
+ 
 
 ### :rocket: Tecnologias
  - [React](https://reactjs.org/ "ReactJS")
